@@ -1,0 +1,9 @@
+aws_region = "ap-south-1"
+
+db_username = "bmi_user"
+
+key_name = "your-key-pair-name"
+
+admin_cidr_blocks = ["203.0.113.10/32"]
+
+app_ingress_cidr_blocks = ["0.0.0.0/0"]
